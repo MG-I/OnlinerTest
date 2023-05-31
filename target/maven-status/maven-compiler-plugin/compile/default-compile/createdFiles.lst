@@ -1,0 +1,17 @@
+org\com\it_academy\onliner\rest_api\model\SushiveslaSearch.class
+org\com\it_academy\onliner\rest_api\endpoints\OnlinerEndpoints.class
+org\com\it_academy\onliner\pageobject\OnlinerURL.class
+org\com\it_academy\onliner\rest_api\util\GetRequestUtils.class
+org\com\it_academy\onliner\framework\ChromeDriverCreator.class
+org\com\it_academy\onliner\framework\DriverProvider.class
+org\com\it_academy\onliner\framework\Driver.class
+org\com\it_academy\onliner\framework\EdgeDriverCreator.class
+org\com\it_academy\onliner\pageobject\ProductPage.class
+org\com\it_academy\onliner\pageobject\CatalogPage.class
+org\com\it_academy\onliner\framework\PropertiesReader.class
+org\com\it_academy\onliner\pageobject\BasePage.class
+org\com\it_academy\onliner\rest_api\service\SushiveslaService.class
+org\com\it_academy\onliner\framework\DriverManager.class
+org\com\it_academy\onliner\pageobject\FrameSearch.class
+org\com\it_academy\onliner\pageobject\Header.class
+org\com\it_academy\onliner\framework\WebDriverCreator.class

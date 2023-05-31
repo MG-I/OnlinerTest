@@ -1,0 +1,5 @@
+org\com\it_academy\testonliner\web\FrameSearchTest.class
+org\com\it_academy\testonliner\api\RestSearchTest.class
+org\com\it_academy\testonliner\web\SectionsExistTest.class
+org\com\it_academy\testonliner\api\BaseTestApi.class
+org\com\it_academy\testonliner\web\BaseTest.class
